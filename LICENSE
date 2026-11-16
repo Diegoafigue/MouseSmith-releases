@@ -1,0 +1,53 @@
+MouseSmith
+Copyright (c) 2026 Diego Figueroa. All rights reserved.
+
+ENGLISH
+
+MouseSmith (the "Software") is free to download and use, for personal or
+commercial purposes, on any number of your own Macs.
+
+You may not, without written permission from the author:
+  - modify, decompile, disassemble or reverse engineer the Software, except
+    where the law expressly allows it;
+  - sell, rent, sublicense or redistribute the Software, in whole or in part,
+    or bundle it with other products. Linking to this repository is welcome.
+
+The Software is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose and noninfringement. In no event shall the
+author be liable for any claim, damages or other liability arising from, out
+of or in connection with the Software or its use. The Software changes how your
+Mac handles mouse input and remaps the keys some mice send; you use it at your
+own risk.
+
+Paid features, if offered in the future, will have their own terms.
+
+The open source components the Software includes (such as Sparkle, MIT
+license), credited in Settings › About, are covered by their own licenses.
+
+ESPAÑOL
+
+MouseSmith (el "Software") se puede descargar y usar gratis, para fines
+personales o comerciales, en todas tus Macs.
+
+Sin permiso escrito del autor no puedes:
+  - modificarlo, descompilarlo, desensamblarlo ni aplicarle ingeniería
+    inversa, salvo donde la ley lo permita expresamente;
+  - venderlo, rentarlo, sublicenciarlo ni redistribuirlo, total o
+    parcialmente, ni incluirlo en otros productos. Enlazar a este repositorio
+    sí está permitido.
+
+El Software se ofrece "tal cual", sin garantía de ningún tipo. El autor no es
+responsable de reclamos, daños u otras responsabilidades derivadas del
+Software o de su uso. El Software cambia cómo tu Mac maneja el mouse y
+reasigna las teclas que mandan algunos mouse; lo usas bajo tu propio riesgo.
+
+Las funciones de pago, si se ofrecen en el futuro, tendrán sus propios
+términos.
+
+Los componentes de código abierto incluidos (como Sparkle, licencia MIT), que
+se acreditan en Ajustes › Acerca de, tienen sus propias licencias.
+
+In case of any difference between the two versions, the English version
+prevails. / Si hay diferencias entre ambas versiones, prevalece la versión en
+inglés.
