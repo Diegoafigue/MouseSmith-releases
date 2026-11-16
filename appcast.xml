@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>MouseSmith</title>
+    <link>https://github.com/Diegoafigue/MouseSmith-releases</link>
+    <description>MouseSmith updates</description>
+    <language>es</language>
+    <item>
+      <title>MouseSmith 0.2.0</title>
+      <pubDate>Mon, 16 Nov 2026 06:07:33 GMT</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Novedades</h3>
+<ul>
+<li><b>Primera versión pública (beta).</b> MouseSmith hace que cualquier mouse se sienta en casa en tu Mac.</li>
+<li><b>Scroll suave</b> con cinco curvas, velocidad y duración, y la opción de invertir sólo el mouse.</li>
+<li><b>Botones a tu medida:</b> atrás y adelante, copiar y pegar, Mission Control, botones 4 y 5, atajos propios o un atajo de la app Atajos. Con perfiles por app.</li>
+<li><b>Mouse que mandan atajos raros</b>, como la UGREEN MU008: sus botones del pulgar se vuelven botones de verdad, sin tocar tu teclado. Y «Aprender botones» para cualquier otro.</li>
+<li><b>Batería del mouse</b> en el panel y aviso cuando está baja.</li>
+</ul>
+<h3>What's new</h3>
+<ul>
+<li><b>First public release (beta).</b> MouseSmith makes any mouse feel at home on your Mac.</li>
+<li><b>Smooth scrolling</b> with five curves, speed and duration, and reversing the mouse only.</li>
+<li><b>Buttons your way:</b> back and forward, copy and paste, Mission Control, buttons 4 and 5, your own shortcuts or one from the Shortcuts app. With app profiles.</li>
+<li><b>Mice that send odd shortcuts</b>, like the UGREEN MU008: their thumb buttons become real buttons, without touching your keyboard. And "Learn Buttons" for any other.</li>
+<li><b>Mouse battery</b> in the panel, with a warning when it runs low.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/Diegoafigue/MouseSmith-releases/releases/download/v0.2.0/MouseSmith-0.2.0.dmg" type="application/octet-stream" sparkle:edSignature="UPUPFOoHh9kXx823YlJxaML2+sVTZe/hgOX6HDCKd5My0HDFtROyTtUu8O7qN261Z/COgDGJnI41k83FpK2ZAQ==" length="3928058" />
+    </item>
+  </channel>
+</rss>
