@@ -6,6 +6,28 @@
     <description>MouseSmith updates</description>
     <language>es</language>
     <item>
+      <title>MouseSmith 0.2.1</title>
+      <pubDate>Wed, 18 Nov 2026 18:46:56 GMT</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Novedades</h3>
+<ul>
+<li><b>Arreglado un cierre inesperado</b> cuando el mouse se desconectaba o se dormía mientras MouseSmith configuraba sus botones.</li>
+<li><b>Reportes de problemas:</b> si MouseSmith se cierra inesperadamente, la próxima vez que abra ofrece enviar el reporte para que se pueda arreglar. También puedes usar «Reportar un problema…» en el menú del clic derecho del ícono o en Ajustes › Acerca de. No se envía nada hasta que tú lo publiques.</li>
+<li><b>Una sola copia a la vez:</b> si abres MouseSmith otra vez, la copia nueva reemplaza a la anterior, así que no quedan dos íconos.</li>
+</ul>
+<h3>What's new</h3>
+<ul>
+<li><b>Fixed a crash</b> when the mouse disconnected or fell asleep while MouseSmith was setting up its buttons.</li>
+<li><b>Problem reports:</b> if MouseSmith quits unexpectedly, the next time it opens it offers to send the report so it can be fixed. You can also use "Report a Problem…" in the menu bar icon's right-click menu or in Settings › About. Nothing is sent until you submit it.</li>
+<li><b>One copy at a time:</b> opening MouseSmith again replaces the older copy, so there are never two icons.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/Diegoafigue/MouseSmith-releases/releases/download/v0.2.1/MouseSmith-0.2.1.dmg" type="application/octet-stream" sparkle:edSignature="P6JZXnTJ3FUlC/TB6RwQWhXH4TDC37sFIM1atjwIqmZIDCIRtg7+x7e8kx1lgX0CA88jRiPNrYCNevOq8ljqAQ==" length="3962319" />
+    </item>
+    <item>
       <title>MouseSmith 0.2.0</title>
       <pubDate>Mon, 16 Nov 2026 06:07:33 GMT</pubDate>
       <sparkle:version>5</sparkle:version>
