@@ -6,6 +6,26 @@
     <description>MouseSmith updates</description>
     <language>es</language>
     <item>
+      <title>MouseSmith 0.2.2</title>
+      <pubDate>Fri, 20 Nov 2026 20:50:32 GMT</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Novedades</h3>
+<ul>
+<li><b>Atrás y Adelante funcionan con cualquier teclado.</b> Antes, en teclados como el español, el botón de Atrás no hacía nada y el de Adelante hacía zoom en Safari. Ahora van a la página anterior o siguiente como cuando deslizas con dos dedos en el trackpad.</li>
+<li><b>Copiar, pegar, cortar, deshacer y rehacer</b> pulsan las teclas correctas en teclados como AZERTY.</li>
+</ul>
+<h3>What's new</h3>
+<ul>
+<li><b>Back and Forward work with any keyboard layout.</b> On keyboards such as Spanish, Back used to do nothing and Forward zoomed in Safari. They now go to the previous or next page, like a two-finger swipe on the trackpad.</li>
+<li><b>Copy, paste, cut, undo and redo</b> press the right keys on keyboards like AZERTY.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/Diegoafigue/MouseSmith-releases/releases/download/v0.2.2/MouseSmith-0.2.2.dmg" type="application/octet-stream" sparkle:edSignature="1FnE0H9LbIMMx/LrvY+exMo+eNFLzIVDKasTs+Dp7/XfcIHSZYuaVEpu8KlIP9nmpAlOmBC8klKI6Drck7PJBg==" length="3964128" />
+    </item>
+    <item>
       <title>MouseSmith 0.2.1</title>
       <pubDate>Wed, 18 Nov 2026 18:46:56 GMT</pubDate>
       <sparkle:version>11</sparkle:version>
