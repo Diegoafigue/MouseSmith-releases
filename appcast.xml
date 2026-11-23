@@ -6,6 +6,26 @@
     <description>MouseSmith updates</description>
     <language>es</language>
     <item>
+      <title>MouseSmith 0.2.3</title>
+      <pubDate>Mon, 23 Nov 2026 21:26:13 GMT</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Novedades</h3>
+<ul>
+<li><b>Los atajos personalizados se combinan con el teclado.</b> Mantén ⌘, ⇧, ⌥ o ⌃ al presionar un botón del mouse y se suman a su atajo: con ⌘, un botón que tiene ⌫ manda ⌘⌫. Así cada botón puede hacer varios comandos, por ejemplo en DaVinci Resolve.</li>
+<li><b>Sin cierres por accidente:</b> ⌘ no se suma cuando convertiría el atajo en uno que cierra o sale de la app, como ⌘Q o ⌘W.</li>
+</ul>
+<h3>What's new</h3>
+<ul>
+<li><b>Custom shortcuts combine with the keyboard.</b> Hold ⌘, ⇧, ⌥ or ⌃ while you press a mouse button and they add to its shortcut: with ⌘, a button set to ⌫ sends ⌘⌫. Each button can now do several commands, in DaVinci Resolve for example.</li>
+<li><b>No accidental quits:</b> ⌘ is left out when it would turn the shortcut into one that quits or closes the app, such as ⌘Q or ⌘W.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/Diegoafigue/MouseSmith-releases/releases/download/v0.2.3/MouseSmith-0.2.3.dmg" type="application/octet-stream" sparkle:edSignature="JEp9JWTO4t7/F9SH9a1gQfLeEXFn7IsZQR07b5+zvshVUQHzW31tRgGLQrKhLhjGDvKg90CU6j/h+Pkfv23nDA==" length="3964549" />
+    </item>
+    <item>
       <title>MouseSmith 0.2.2</title>
       <pubDate>Fri, 20 Nov 2026 20:50:32 GMT</pubDate>
       <sparkle:version>15</sparkle:version>
